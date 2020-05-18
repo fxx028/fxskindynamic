@@ -1,0 +1,4 @@
+#Mon May 18 16:01:47 CST 2020
+base.0=/Users/fengxin/Desktop/skin/skin_packages/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
